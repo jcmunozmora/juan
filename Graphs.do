@@ -10,7 +10,14 @@ keep if codmpio==41001|codmpio==41078|codmpio==41206|codmpio==41615|codmpio==417
 
 *** Only years I care
 keep if ano>1997 & ano<2007
+asdfj asdf
 
+asdfljk l
+asdfkjñ asd
+fjka dsf
+
+asdfjlk a
+sdf
 **** Dummy neighors
 gen d_neig=(codmpio==41001|codmpio==41078|codmpio==41206|codmpio==41615|codmpio==41799|codmpio==41020)
 
